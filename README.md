@@ -26,3 +26,7 @@
 24. Generative Adversarial Networks (GANs)
 25. Графовые модели
 26. Проектная работа
+
+<div id ="sch" align="center">
+<img src="https://komarev.com/ghpvc/?username=Avonna&style=flat-square&color=blue" alt = ""/>
+</div>
